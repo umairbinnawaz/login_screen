@@ -43,6 +43,7 @@
         android:layout_height="47dp"
         android:background="@drawable/forme"
         android:layout_margin="10dp"
+        android:paddingLeft="5dp"
         />
     <TextView
         android:layout_width="match_parent"
